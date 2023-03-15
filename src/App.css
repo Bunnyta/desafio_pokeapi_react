@@ -1,0 +1,28 @@
+
+
+.active {
+	font-weight: bolder;
+	
+}
+
+
+
+
+
+.img{
+	height: 600px;
+	width: 600px;
+	margin-left: 90px;
+
+}
+
+.div{
+	display: flex;
+	flex-direction: column;
+}
+
+.btn{
+	background-color: grey
+	
+}
+
